@@ -1,5 +1,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godlander&theme=dark" alt="godlander"/>
-<h2>I'm Godlander</h2>
+<h2>I am</h2>
 
 A Minecraft enthusiast who picked up some **JavaScript**, **GLSL**, **C++**, and **C#** along the way.
 
